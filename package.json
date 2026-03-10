@@ -1,0 +1,12 @@
+{
+  "dependencies": {
+    "dayjs": "^1.11.19",
+    "fs": "^0.0.1-security",
+    "node-fetch": "^3.3.2",
+    "pug": "3.0.3"
+  },
+  "name": "nico-rikari",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT"
+}

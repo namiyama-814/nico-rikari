@@ -1,3 +1,2 @@
 yarn install
-node index.jsd
-d
+node index.js
